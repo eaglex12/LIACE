@@ -5,7 +5,7 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 ## Demo video
 
-![Watch the video](https://drive.google.com/file/d/1bAo5sj6LFsG4oBV0rh9uOO-MEXTHagMY/view?usp=sharing)
+![Watch the video](https://drive.google.com/uc?id=1bAo5sj6LFsG4oBV0rh9uOO-MEXTHagMY)
 
 
 ## Getting Started
