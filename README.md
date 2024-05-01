@@ -3,9 +3,6 @@
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
 
-## Demo video
-
-[![Watch the video](https://camo.githubusercontent.com/https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1bAo5sj6LFsG4oBV0rh9uOO-MEXTHagMY)](https://camo.githubusercontent.com/https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1bAo5sj6LFsG4oBV0rh9uOO-MEXTHagMY)
 
 
 ## Getting Started
