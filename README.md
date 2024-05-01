@@ -5,7 +5,7 @@ This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with
 
 ## Demo video
 
-![Watch the video](https://raw.githubusercontent.com/eaglex12/LIACE/main/TS.mp4)
+![Watch the video](https://github.com/eaglex12/LIACE/main/TS.mp4)
 
 
 ## Getting Started
