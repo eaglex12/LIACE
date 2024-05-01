@@ -2,6 +2,10 @@
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
+## Demo video
+
+https://github.com/eaglex12/LIACE/assets/115221626/3ac6dcba-6312-4f77-996f-1ee1b98f5ed9
+
 
 
 
